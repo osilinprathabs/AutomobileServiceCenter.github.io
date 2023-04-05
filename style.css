@@ -1,0 +1,55 @@
+body,
+html
+{
+	widows: 100px;
+	height: 100px;
+	font-family: 'montserrat' sans-serif;
+	background: url(bmw.jpg)  no-repeat center center fixed;
+	background-size: cover;
+}
+
+hr
+{
+ 	border-color: ;
+ 	border-width: 6px;
+ 	max-width: 65px;
+}
+
+/*.buffer
+ {
+ 	height: 1rem;
+ }
+*/
+h1
+{
+	font-size: 3rem;
+	color:  #e2dbdb;
+}
+
+
+.btn
+{
+	font-size: 700;
+	border-radius: 300px;
+}
+ 
+
+.btn-primary
+{
+	background-color: success;
+	border-color: success;
+}
+
+
+.btn-primary:hover
+{
+	background-color: #f05f44;
+	border-color: #f05f44;
+	border-width: 3px;
+}
+
+
+.btn-xl
+{
+	padding: 1rem 2rem;
+}
